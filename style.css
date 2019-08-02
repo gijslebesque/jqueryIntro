@@ -1,0 +1,11 @@
+.square {
+  width: 250px;
+  height: 250px;
+  background: powderblue;
+  cursor: pointer;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
